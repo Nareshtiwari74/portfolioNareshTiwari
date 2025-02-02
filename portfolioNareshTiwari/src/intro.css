@@ -23,7 +23,7 @@
 
 .card_container {
   --X: 0deg;
-  --Y: 0deg;
+  --Y: 0deg; 
   --Z: 0deg;
   --angleX: 15deg;
   --angleY: 20deg;
